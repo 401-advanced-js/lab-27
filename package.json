@@ -17,11 +17,19 @@
     "redux": "4.0.1",
     "superagent": "4.0.0-beta.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "react-styleguidist": "^9.0.8"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
