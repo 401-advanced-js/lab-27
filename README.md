@@ -37,6 +37,8 @@ Assertions:
 #### Running the app
 * `npm start`
 
-#### UML
+#### Websites
 
-[UML](./assets/lab-27.jpg) -- DIDN'T DO
+* [AWS bucket](http://shirataplab27.s3-website-us-west-2.amazonaws.com/) -Doesn't work
+* [Other amazon deployment]()
+* [Netify](https://hopeful-keller-466601.netlify.com/)
